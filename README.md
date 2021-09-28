@@ -1,7 +1,7 @@
-♣ the program was created using SAP UI5
-♣ program used : Eclipse IDE for Java Developers - 2021-09
-♣ is Responsive : 'not yet' 
-♣ estimated delivery : 01/10/2021
+# the program was created using SAP UI5
+# program used : Eclipse IDE for Java Developers - 2021-09
+# is Responsive : 'not yet' 
+# estimated delivery : 01/10/2021
 
 # shopping-cart-V1  27/09/2021
 
