@@ -18,3 +18,11 @@
    
 * cliccando su ciascuno degli elementi della categoria vengono mostrati tutti i prodotti, in ogni prodotto c'è un button 'Add to cart'
 * nella pagina 'my cart' se puoi vedere tutti i prodotti selezionati in finale c'è un prezzo totale 
+
+# shopping-cart-V3 29/09/2021
+
+* è stata creata 'pagina  product info'
+* cliccando su ogni articolo vengono visualizzate tutte le informazioni sul prodotto:
+   . descrizione, quantità, prezzo e " opzione immagini non ancora disponibili "
+
+* la pagina 'my cart ' dove sono tutti i prodotti aggiunti al carrello, 
