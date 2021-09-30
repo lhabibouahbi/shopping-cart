@@ -25,4 +25,12 @@
 * cliccando su ogni articolo vengono visualizzate tutte le informazioni sul prodotto:
    . descrizione, quantità, prezzo e " opzione immagini non ancora disponibili "
 
-* la pagina 'my cart ' dove sono tutti i prodotti aggiunti al carrello, 
+* la pagina 'my cart ' dove sono tutti i prodotti aggiunti al carrello, con prezzo totale 'UPDATED '
+
+# shopping-cart-V4 30/09/2021
+
+* la pagina 'my cart ' :
+   - se mostrano tutti i prodotti 
+   - button download  : stamppa il scontrino 
+   - rimuove i prodotti della lista + opzioni di aggiungere i quantità 'ancora da migliorare'
+
