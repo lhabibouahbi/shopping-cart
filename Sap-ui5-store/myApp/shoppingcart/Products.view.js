@@ -5,6 +5,7 @@ sap.ui.jsview("shoppingcart.Products", {
 		return "shoppingcart.Products";
 	},
 
+
 	createContent : function(oController) {
 		
 		var oTable = new sap.m.Table("productsTable",{

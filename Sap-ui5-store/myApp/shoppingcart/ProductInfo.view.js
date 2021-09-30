@@ -5,7 +5,7 @@ sap.ui.jsview("shoppingcart.ProductInfo", {
 		return "shoppingcart.ProductInfo";
 	},
 
-	
+
 	createContent : function(oController) {
  		return new sap.m.Page({
 			title: "{products>name}",

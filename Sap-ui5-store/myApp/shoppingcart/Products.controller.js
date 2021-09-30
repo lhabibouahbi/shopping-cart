@@ -1,5 +1,6 @@
 sap.ui.controller("shoppingcart.Products", {
 
+
 	onInit: function() {
 		
 		this.router = sap.ui.core.UIComponent.getRouterFor(this);

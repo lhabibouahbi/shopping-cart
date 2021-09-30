@@ -5,6 +5,7 @@ sap.ui.jsview("shoppingcart.SubCategory", {
 		return "shoppingcart.SubCategory";
 	},
 
+	
 	createContent : function(oController) {
 		
 		var oList = new sap.m.List({

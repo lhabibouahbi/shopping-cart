@@ -54,6 +54,12 @@ sap.ui.controller("shoppingcart.SubCategory", {
 		
 		this.router.navTo("Products", {catIndex: this.catIndex, subCatIndex: subCatIndex});
 		
+	},
+	
+	goBack: function() {
+		
+		this.router.navTo("");
+		
 	}
 
 });

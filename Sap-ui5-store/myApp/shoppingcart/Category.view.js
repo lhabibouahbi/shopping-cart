@@ -1,5 +1,10 @@
 sap.ui.jsview("shoppingcart.Category", {
 
+ 
+	getControllerName : function() {
+		return "shoppingcart.Category";
+	},
+
 	createContent : function(oController) {
 		
 		var oList = new sap.m.List({

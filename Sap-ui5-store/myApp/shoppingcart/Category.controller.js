@@ -1,6 +1,10 @@
 sap.ui.controller("shoppingcart.Category", {
 
 
+//	onInit: function() {
+//
+//	},
+
 	categoryListItemPress: function(evt) {
 		
 		

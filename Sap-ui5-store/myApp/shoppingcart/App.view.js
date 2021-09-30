@@ -1,5 +1,6 @@
 sap.ui.jsview("shoppingcart.App", {
 
+
 	getControllerName : function() {
 		return "shoppingcart.App";
 	},
