@@ -1,7 +1,6 @@
 * the program was created using SAP UI5
 * program used : Eclipse IDE for Java Developers - 2021-09
 * is Responsive : 'not yet' 
-* estimated delivery : 01/10/2021
 
 # shopping-cart-V1  27/09/2021
 
@@ -33,4 +32,12 @@
    - se mostrano tutti i prodotti 
    - button download  : stamppa il scontrino 
    - rimuove i prodotti della lista + opzioni di aggiungere i quantità 'ancora da migliorare'
+
+
+# shopping-cart-V5 01/10/2021
+
+* nella pagona 'my cart' si po rimuove i prodotti della lista + opzioni di aggiungere i quantità 
+* meglirando alcuni fuzioni 
+
+
 
