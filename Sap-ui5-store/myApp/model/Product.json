@@ -12,30 +12,35 @@
                          "id":1,
                          "name":"Laptop 01",
                          "price":"999$",
+                         "image":"resources/laptop01.jpg",
                          "title":"It is a long established fact that a reader will be distracted by the readable content.",
                          "description":"Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing ."
                       },{  
                         "id":2,
                         "name":"Laptop 02",
                         "price":"999$",
+                        "image":"resources/laptop01.jpg",
                         "title":"It is a long established fact that a reader will be distracted by the readable content.",
                         "description":"Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing ."
                      },{  
                         "id":3,
                         "name":"Laptop 02",
                         "price":"999$",
+                        "image":"resources/laptop01.jpg", 
                         "title":"It is a long established fact that a reader will be distracted by the readable content.",
                         "description":"Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing ."
                      },{  
                         "id":4,
                         "name":"Laptop 04",
                         "price":"999$",
+                        "image":"resources/laptop01.jpg", 
                         "title":"It is a long established fact that a reader will be distracted by the readable content.",
                         "description":"Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing ."
                      },{  
                         "id":5,
                         "name":"Laptop 05",
                         "price":"999$",
+                        "image":"resources/laptop01.jpg", 
                         "title":"It is a long established fact that a reader will be distracted by the readable content.",
                         "description":"Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing ."
                      }        
@@ -48,6 +53,7 @@
                          "id":6,
                          "name":"DESKTOP 01",
                          "price":"1500$",
+                         "image":"resources/desktop01.jpg", 
                          "title":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.",
                          "description":"when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting."
                       },
@@ -55,24 +61,28 @@
                         "id":7,
                         "name":"DESKTOP 02",
                         "price":"1500$",
+                        "image":"resources/desktop01.jpg", 
                         "title":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.",
                         "description":"when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting."
                      },{  
                         "id":8,
                         "name":"DESKTOP 03",
                         "price":"1500$",
+                        "image":"resources/desktop01.jpg",   
                         "title":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.",
                         "description":"when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting."
                      },{  
                         "id":9,
                         "name":"DESKTOP 04",
                         "price":"1500$",
+                        "image":"resources/desktop01.jpg",   
                         "title":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.",
                         "description":"when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting."
                      },{  
                         "id":10,
                         "name":"DESKTOP 05",
                         "price":"1500$",
+                        "image":"resources/desktop01.jpg",   
                         "title":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.",
                         "description":"when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting."
                      }
@@ -93,6 +103,7 @@
                          "id":11,
                          "name":"Androind 01",
                          "price":"352$",
+                         "image":"resources/android01.jpg",  
                          "title":"remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
                          "description":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.."
                       },
@@ -100,24 +111,28 @@
                         "id":12,
                         "name":"Androind 02",
                         "price":"352$",
+                          "image":"resources/android01.jpg", 
                         "title":"remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
                         "description":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.."
                      },{  
                         "id":13,
                         "name":"Androind 03",
                         "price":"352$",
+                         "image":"resources/android01.jpg", 
                         "title":"remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
                         "description":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.."
                      },{  
                         "id":14,
                         "name":"Androind 04",
                         "price":"352$",
+                         "image":"resources/android01.jpg", 
                         "title":"remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
                         "description":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.."
                      },{  
                         "id":15,
                         "name":"Androind 05",
                         "price":"352$",
+                         "image":"resources/android01.jpg", 
                         "title":"remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
                         "description":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.."
                      }
@@ -130,30 +145,35 @@
                          "id":16,
                          "name":"IPHONE 01",
                          "price":"11004",
+                          "image":"resources/iphone01.jpg", 
                          "title":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.",
                          "description":"over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, ."
                       },{  
                         "id":17,
                         "name":"IPHONE 02",
                         "price":"11004",
+                          "image":"resources/iphone01.jpg", 
                         "title":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.",
                         "description":"over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, ."
                      },{  
                         "id":18,
                         "name":"IPHONE 03",
                         "price":"11004",
+                         "image":"resources/iphone01.jpg", 
                         "title":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.",
                         "description":"over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, ."
                      },{  
                         "id":19,
                         "name":"IPHONE 04",
                         "price":"11004",
+                         "image":"resources/iphone01.jpg", 
                         "title":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.",
                         "description":"over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, ."
                      },{  
                         "id":20,
                         "name":"IPHONE 05",
                         "price":"11004",
+                         "image":"resources/iphone01.jpg", 
                         "title":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.",
                         "description":"over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, ."
                      }
