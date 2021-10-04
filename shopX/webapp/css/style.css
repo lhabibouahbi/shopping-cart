@@ -1,0 +1,27 @@
+.sapUiRootBackground, .sapMShellGlobalOuterBackground{
+
+    background-image: url(https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-38.jpg)!important;
+    background-size: cover;
+    background-color:none ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+html[dir="ltr"] .myAppDemoWT .myCustomButton.sapMBtn {
+    margin-right: 0.125rem
+ }
+ 
+ html[dir="rtl"] .myAppDemoWT .myCustomButton.sapMBtn {
+    margin-left: 0.125rem
+ }
+ 
+ .myAppDemoWT .myCustomText {
+    display: inline-block;
+    font-weight: bold;
+ }
+
+ .sapFAvatar .sapFAvatarImageCover{
+   background-size: contain;
+ }
+ 

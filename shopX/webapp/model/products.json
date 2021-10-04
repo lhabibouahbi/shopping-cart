@@ -1,0 +1,392 @@
+{
+	"ProductCollection": [
+		{
+			"ProductId": "pc-01",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Notebook hp 15 with 2,80 GHz quad core, 15\" LCD, 8 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"Name": "Notebook hp 15",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71sldVacymL._AC_SY450_.jpg",
+			"Status": "Available",
+			"Quantity": 40,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 956,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "pc-02",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Notebook lenovo Basic 15 with 2,50 GHz quad core, 15\" LCD, 16 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"Name": "Notebook lenovo basic 15",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71O+ltdAY8L._AC_SX425_.jpg",
+			"Status": "Available",
+			"Quantity": 16,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 884,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "pc-03",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Notebook asus new 1.1 with 3,80 GHz quad core i7, 15\" LCD, 32 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"Name": "Notebook asus new 1.1",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://static.acer.com/up/Resource/Acer/Laptops/Swift_3X/Images/20201008/Acer-Swift-3X_SF314-510G_Gold_modelmain.png",
+			"Status": "Available",
+			"Quantity": 18,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 978,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "pc-04",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Notebook 2020 dell  1,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"Name": "Notebook 2020 dell ",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/61OphoWyfpL._AC_SY450_.jpg",
+			"Status": "Available",
+			"Quantity": 20,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 786,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},{
+			"ProductId": "pc-05",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Notebook 2020 huauwei 3,80 GHz quad core i5\", 8 GB  RAM, 1 TB Hard Disc, Windows 10 Pro",
+			"Name": "Notebook 2020 huawei ",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/81u7c374mMS._AC_SX425_.jpg",
+			"Status": "Available",
+			"Quantity": 8,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 599,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ds-01",
+			"Category": "desktop",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "PC Desktop Hp  windows 10 with 2,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"Name": "PC Desktop Hp  windows 10 ",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://www.intel.it/content/dam/products/hero/foreground/desktops-hero-16x9.png.rendition.intel.web.480.270.png",
+			"Status": "Available",
+			"Quantity": 10,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 785,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ds-02",
+			"Category": "desktop",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "pc desktop dell windows 8 with 2,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"Name": "pc desktop dell windows 8",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+			"Status": "Available",
+			"Quantity": 11,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 858,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		
+		{
+			"ProductId": "ds-03",
+			"Category": "desktop",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "pc desktop asus 15 with 3,80 GHz quad core, 15\" LCD, 16 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+			"Name": "pc desktop asus 15",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://www.ilcorrieredellacitta.com/wp-content/uploads/2019/03/PC-desktop.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 678,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ds-04",
+			"Category": "desktop",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "pc desktop huawei 13 with 3,80 GHz quad core i7, 15\" LCD, 16 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+			"Name": "pc desktop huawei core i7",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://www.datamanager.it/wp-content/uploads/2018/07/pc-idc-gartner.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 678,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ds-05",
+			"Category": "desktop",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "pc desktop sony  with 3,80 GHz quad core i5, 15\" LCD, 16 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+			"Name": "pc desktop sony core i5",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://i.pcmag.com/imagery/reviews/04xTDKsqdUzgKvWI7MGVnG3-1..1598204639.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 678,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		}
+	],
+	"ProductCollectionStats": {
+		"Counts": {
+			"Total": 123,
+			"Weight": {
+				"Ok": 53,
+				"Heavy": 51,
+				"Overweight": 19
+			}
+		},
+		"Groups": {
+			"Category": {
+				"Accessories" : 34,
+				"Desktop Computers" : 7,
+				"Flat Screens" : 2,
+				"Keyboards" : 4,
+				"Laptops" : 11,
+				"Printers" : 9,
+				"Smartphones and Tablets" : 9,
+				"Mice" : 7,
+				"Computer System Accessories" : 8,
+				"Graphics Card" : 4,
+				"Scanners" : 4,
+				"Speakers" : 3,
+				"Software" : 8,
+				"Telekommunikation" : 3,
+				"Servers" : 3,
+				"Flat Screen TVs" : 3
+			},
+			"SupplierName": {
+				"Titanium": 21,
+				"Technocom": 22,
+				"Red Point Stores": 7,
+				"Very Best Screens": 14,
+				"Smartcards": 2,
+				"Alpha Printers": 5,
+				"Printer for All": 8,
+				"Oxynum": 8,
+				"Fasttech": 15,
+				"Ultrasonic United": 15,
+				"Speaker Experts": 3,
+				"Brainsoft": 3
+			}
+		},
+		"Filters": [
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "Accessories",
+						"data": 34
+					},
+					{
+						"text": "Desktop Computers",
+						"data": 7
+					},
+					{
+						"text": "Flat Screens",
+						"data": 2
+					},
+					{
+						"text": "Keyboards",
+						"data": 4
+					},
+					{
+						"text": "Laptops",
+						"data": 11
+					},
+					{
+						"text": "Printers",
+						"data": 9
+					},
+					{
+						"text": "Smartphones and Tablets",
+						"data": 9
+					},
+					{
+						"text": "Mice",
+						"data": 7
+					},
+					{
+						"text": "Computer System Accessories",
+						"data": 8
+					},
+					{
+						"text": "Graphics Card",
+						"data": 4
+					},
+					{
+						"text": "Scanners",
+						"data": 4
+					},
+					{
+						"text": "Speakers",
+						"data": 3
+					},
+					{
+						"text": "Software",
+						"data": 8
+					},
+					{
+						"text": "Telekommunikation",
+						"data": 3
+					},
+					{
+						"text": "Servers",
+						"data": 3
+					},
+					{
+					  "text": "Flat Screen TVs",
+					  "data": 3
+					}
+				]
+			},
+			{
+				"type": "SupplierName",
+				"values": [
+					{
+					"text": "Titanium",
+					"data": 21
+				  },
+				  {
+					"text": "Technocom",
+					"data": 22
+				  },
+				  {
+					"text": "Red Point Stores",
+					"data": 7
+				  },
+				  {
+					"text": "Very Best Screens",
+					"data": 14
+				  },
+				  {
+					"text": "Smartcards",
+					"data": 2
+				  },
+				  {
+					"text": "Alpha Printers",
+					"data": 5
+				  },
+				  {
+					"text": "Printer for All",
+					"data": 8
+				  },
+				  {
+					"text": "Oxynum",
+					"data": 8
+				  },
+				  {
+					"text": "Fasttech",
+					"data": 15
+				  },
+				  {
+					"text": "Ultrasonic United",
+					"data": 15
+				  },
+				  {
+					"text": "Speaker Experts",
+					"data": 3
+				  },
+				  {
+					"text": "Brainsoft",
+					"data": 3
+				  }
+				]
+			}
+		]
+	}
+}
