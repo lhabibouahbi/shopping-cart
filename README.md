@@ -40,4 +40,15 @@
 * meglirando alcuni fuzioni 
 
 
+# shopping-cart-V5 04/10/2021
+
+* progeto spostato da escam a sap ide 
+* stato creato con 
+* meglirando alcuni fuzioni 
+*  Flexible Column Layout App
+
+![my cart](https://user-images.githubusercontent.com/15705595/135875979-a39606bb-fa25-4d83-8fba-5ce0add33fb0.PNG)
+![page split](https://user-images.githubusercontent.com/15705595/135876017-45ca1781-5614-4ec4-8267-d4193288c5c4.PNG)
+![ppp](https://user-images.githubusercontent.com/15705595/135876045-aa3004eb-06f9-44fb-a0bc-b99c5c38e06d.PNG)
+
 
