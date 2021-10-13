@@ -1,0 +1,230 @@
+<mvc:View
+	controllerName="sap.ui.demo.fiori2.controller.Master"
+	xmlns="sap.m"
+	xmlns:f="sap.f"
+    xmlns:l="sap.ui.layout"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:custom="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+    
+
+	<SplitApp
+
+	
+		id="SplitAppDemo"
+		initialDetail="detail"
+		initialMaster="master">
+		<detailPages>
+			<Page>
+				<f:DynamicPage id="dynamicPageId" toggleHeaderOnTitleClick="false">
+		<!-- DynamicPage Title -->
+	
+		<!-- DynamicPage Content -->
+		<f:content>
+		
+		
+
+		<VBox fitContainer="true">
+                <OverflowToolbar class="sapFDynamicPageAlignContent">
+
+					<MenuButton 
+					   text="CATEGORIES"
+					   icon="sap-icon://filter"
+					   >
+						<menu>
+							<Menu itemSelected="onMenuAction" >
+								<MenuItem press="filter_all" text="Laptops" icon="sap-icon://expand-all" />
+								<MenuItem press="filter_laptop" text="Laptops" icon="sap-icon://laptop" />
+								<MenuItem press="filter_tablet" text="Tablets" icon="sap-icon://ipad" />
+								<MenuItem press="filter_mobile" text="Mobiles" icon="sap-icon://iphone" />
+							</Menu>
+						</menu>
+					</MenuButton>
+
+					<ToolbarSpacer/>
+					<SearchField search=".onSearch" width="17.5rem"/>
+						<OverflowToolbarButton icon="sap-icon://sort" text="Sort" type="Transparent" press=".onSort"/>
+				</OverflowToolbar>
+				<Table
+					id="productsTable"
+					inset="false"
+					items="{
+						path: 'products>/ProductCollection',
+						sorter: {
+							path: 'Name'
+						}
+					}"
+					class="sapFDynamicPageAlignContent"
+					width="auto">
+					<columns>
+
+					
+						<Column width="7em">
+							<Text text="Product"/>
+						</Column>
+
+
+						<Column width="10em">
+							<Text text=""/>
+						</Column>
+
+									<Column
+				minScreenWidth="Desktop"
+				demandPopin="true"
+				hAlign="Center">
+				<Text text="price" />
+			</Column>
+
+
+						<Column	hAlign="End">
+							<Text text=""/>
+						</Column>
+
+
+					</columns>
+					<items>
+						<ColumnListItem type="Navigation" id="habib" press=".onListItemPressx">
+							<cells>
+
+							<VBox>
+
+							
+							<Avatar
+					src="{products>ProductPicUrl}"
+					displaySize="L"
+					displayShape="Square"
+					class="sapUiTinyMarginEndimgx"/>
+
+							</VBox>
+
+								<ObjectIdentifier title="{products>Name}"  id="pcid" text="{products>ProductId}"/>
+								
+							
+								
+							<ObjectNumber
+									number="{
+										parts:[
+											{path:'products>Price'},
+											{path:'products>CurrencyCode'}
+										],
+										type: 'sap.ui.model.type.Currency',
+										formatOptions: {showMeasure: false}
+									}"
+									unit="{products>CurrencyCode}"/>
+
+                                  <VBox fitContainer="true">
+								  
+									<Button class="lwa" text="Add to cart" press="onAddtocartx" 
+						type="Emphasized"
+						icon="sap-icon://cart"/>
+									<Button text="Buy now" press="onAddtocarty" />
+								  </VBox>
+							</cells>
+						</ColumnListItem>
+					</items>
+				</Table>
+			</VBox>
+		</f:content>
+
+		<!-- DynamicPage Footer -->
+		<f:footer>
+			<OverflowToolbar>
+				<ToolbarSpacer/>
+				<Button type="Accept" text="Accept"/>
+				<Button type="Reject" text="Reject"/>
+			</OverflowToolbar>
+		</f:footer>
+	</f:DynamicPage>
+			</Page>
+		</detailPages>
+
+		<masterPages>
+	         <Page
+				id="master"
+				title="my cart"
+				backgroundDesign= "List">
+			
+
+			          <VBox fitContainer="true">
+                
+				<Table
+					id="productsTablex"
+					inset="false"
+					items="{
+						path: 'carta>/ProductCollection',
+						sorter: {
+							path: 'Name'
+						}
+					}"
+					class="sapFDynamicPageAlignContent"
+					width="auto">
+					<columns>
+
+                        <Column width="7em">
+						</Column>
+
+						<Column width="10em">
+						</Column>
+
+						<Column	width="10em">
+						</Column>
+
+					</columns>
+					<items>
+						<ColumnListItem type="Navigation" press="">
+							<cells id="9lwa"> 		
+	                          <Avatar
+				            	src="{carta>ProductPicUrl}"
+				            	displaySize="L"
+				            	displayShape="Square"
+			            		class="sapUiTinyMarginEnd"/>
+								<VBox fitContainer="true">	  
+							<ObjectIdentifier
+						title="{carta>Name}"
+						text="{carta>Price} EUR"/>
+								 <Title class="font700" id="qtt" text="X{carta>qq}"/>
+							
+							</VBox>
+														
+							<VBox fitContainer="true">
+								  
+									<Button press="removeitem" 
+									class="{carta>ProductId}"
+									type="Emphasized"
+									icon="sap-icon://delete"/>
+									<Title class="hiden" text="{carta>ProductId}"/>
+							</VBox>
+                                    
+							</cells>
+						</ColumnListItem>
+					</items>
+				</Table>
+			</VBox>
+
+		
+
+					<footer>
+			<Bar>
+				<contentLeft>
+					<Title id="total"	text="Total (0 item)" level="H2"/>
+				</contentLeft>
+
+				<contentRight>
+					<Button
+						id="returnToShopButton"
+						type="Emphasized"
+						text="Checkout"
+						press=".onReturnToShopButtonPress"/>
+				</contentRight>
+			</Bar>
+		</footer>
+
+			</Page>
+		</masterPages>
+
+	</SplitApp>
+
+
+
+
+	
+</mvc:View>
