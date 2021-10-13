@@ -1,7 +1,0 @@
-specVersion: '2.3'
-metadata:
-  name: sap-ui5-shop
-type: application
-framework:
-  name: SAPUI5
-  version: "1.88.1"
