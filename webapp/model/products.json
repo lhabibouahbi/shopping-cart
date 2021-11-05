@@ -1,0 +1,610 @@
+{
+	"ProductCollection": [
+		{
+			"ProductId": "pc-01",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Lenovo Yoga C930-13IKB (Intel Core i5-8250U, 8GB RAM, 256GB SSD) - Iron Grey",
+			"Name": "Lenovo Yoga C930-13IKB",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/61fqWJsXzbL._AC_SL1000_.jpg",
+			"Status": "Available",
+			"Quantity": 40,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 956,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "pc-02",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Jumper Laptop 13.3 inch 8GB RAM 128GB ROM Quad Core Celeron, Windows 10 Thin and Light Laptop, Full HD 1080P Display, Support 128GB TF Cardand 1TB SSD Expansion",
+			"Name": "Jumper Laptop 13.3",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/7138Zhv4HHL._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 16,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 884,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "pc-03",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "2021 Newest Dell Inspiron 3000 Laptop, 15.6 HD Display, Intel Core i5-1035G1, 16GB DDR4 RAM, 1TB Hard Disk Drive, Online Meeting Ready, Webcam, WiFi, HDMI",
+			"Name": "2021 Newest Dell Inspiron",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/81x2cDWTunS._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 18,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 978,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "pc-04",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "DELL 2021 Newest inspiron 15 3000 PC Laptop, 15.6' HD Anti-Glare Non-Touch Display, Intel 2-Core 4205U Processor, 4GB RAM, 128GB PCIe SSD, Webcam",
+			"Name": "DELL 2021 Newest inspiron 15 ",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71HhH887EIS._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 20,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 786,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},{
+			"ProductId": "pc-05",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Dell XPS 13 (9310), 13.4- inch FHD+ Touch Laptop - Intel Core i7-1185G7, 16GB LPDDR4x RAM, 512GB SSD, Iris Xe Graphics, Windows 10 Pro - Platinum Silver",
+			"Name": "Dell XPS 13 (9310)",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/81aI36Tc0XS._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 8,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 599,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},{
+			"ProductId": "pc-06",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Windows 10 Pro Laptop, BiTECOOL 2021 New 14 inches HD Clear Display Pc Laptops, with Intel Celeron Dual Core, 6GB LPDDR4, 2.4G WiFi, BT4.0 and Long Lasting",
+			"Name": "Laptop BiTECOOL 2021",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/81aI36Tc0XS._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 8,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 899,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},{
+			"ProductId": "pc-07",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Winnovo Laptop Computers 14-Inch Windows-10 Notebook - WinBook K146 Intel Celeron Processor 6GB RAM 64GB ROM FHD IPS Display 5G WiFi HDMI (Silver)",
+			"Name": "Winnovo Laptop Computers",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/711jy9tw0uL._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 8,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 1099,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "pc-08",
+			"Category": "Laptops",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Winnovo 14 Inch Laptop Computer, Intel Celeron Processor, 6GB DDR3 RAM, 64GB eMMC, 14’’ HD IPS Display, Windows 10, Numeric Touchpad, 5G WiFi, HDMI, Lightweight, for Business and Student",
+			"Name": "Winnovo 14 Inch Laptop Computer",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/61zDEw4rBJL._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 8,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 899,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ds-01",
+			"Category": "tablet",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Fire HD 10 Tablet (10.1' 1080p full HD display, 64 GB) – White (2019 Release)",
+			"Name": "Fire HD 10 Tablet ",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/61uE03cRsyS._AC_SL1000_.jpg",
+			"Status": "Available",
+			"Quantity": 10,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 785,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ds-02",
+			"Category": "tablet",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Fire 7 tablet, 7' display, 16 GB, latest model (2019 release), Black",
+			"Name": "Fire 7 tablet",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71KwnuNJM7L._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 11,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 858,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		
+		{
+			"ProductId": "ds-03",
+			"Category": "tablet",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Fire HD 8 Plus tablet, HD display, 32 GB, latest model (2020 release), our best 8' tablet for portable entertainment, Slate",
+			"Name": "Fire HD 8 Plus tablet",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71POuqajw1L._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 278,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ds-04",
+			"Category": "tablet",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "SAMSUNG Galaxy Tab A 8.0-inch Android Tablet 64GB Wi-Fi Lightweight Large Screen Feel Camera Long-Lasting Battery, Black",
+			"Name": "SAMSUNG Galaxy Tab A",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/7199+IsEw3L._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 478,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ds-05",
+			"Category": "tablet",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Samsung Galaxy Tab A7 10.4 Wi-Fi 32GB Silver (SM-T500NZSAXAR)",
+			"Name": "Samsung Galaxy Tab A7",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71MvL2kCFCL._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 678,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ph-01",
+			"Category": "phone",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Samsung Electronics Galaxy Z Flip 3 5G Factory Unlocked Android Cell Phone US Version Smartphone Flex Mode Intuitive Camera Compact 256GB Storage US Warranty, Phantom Black",
+			"Name": "Samsung Galaxy Tab A7",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71InZW4fuvL._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 974,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ph-02",
+			"Category": "phone",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Moto E | Unlocked | Made for US by Motorola | 2/32GB | 13MP Camera | 2020 | Blue",
+			"Name": "Moto E 2/32GB",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/61HX0rKZ62L._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 147,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ph-03",
+			"Category": "phone",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "SAMSUNG Galaxy S20 FE 5G Factory Unlocked Android Cell Phone 128GB US Version Smartphone Pro-Grade Camera 30X Space Zoom Night Mode, Cloud Navy",
+			"Name": "SAMSUNG Galaxy S20 ",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71RxOftVoQL._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 157,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ph-04",
+			"Category": "phone",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "OnePlus 9 Pro Pine Green | 5G Unlocked Android Smartphone | 120Hz Fluid Display | Hasselblad Quad Camera | 65W Ultra Fast Charge | 50W Wireless Charge | U.S Version |12GB RAM+256GB | Alexa Built-in",
+			"Name": "OnePlus 9 Pro Pine Green",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/81knqIxxBPL._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 377,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ph-05",
+			"Category": "phone",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "Samsung Galaxy S21 Ultra 5G Factory Unlocked Android Cell Phone 128GB US Version Smartphone Pro-Grade Camera 8K Video 108MP High Res, Phantom Black",
+			"Name": "Samsung Galaxy S21 Ultra 5G ",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/61O45C5qASL._AC_SL1000_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 1177,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ph-06",
+			"Category": "phone",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "TCL 20S Unlocked Android Smartphone with 6.67” Dotch FHD+ Display, 64MP Quad Rear Camera System, 128GB+4GB RAM, 5000mAh Battery with Fast Charging, North Star Blue",
+			"Name": "TCL 20S Unlocked Android Smartphone ",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/71YCwslrhgS._AC_SL1500_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 297,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		},
+		{
+			"ProductId": "ph-07",
+			"Category": "phone",
+			"MainCategory": "Computer Systems",
+			"TaxTarifCode": "1",
+			"SupplierName": "Very Best Screens",
+			"WeightMeasure": 4.2,
+			"WeightUnit": "KG",
+			"Description": "OnePlus 8 Glacial Green,​ 5G Unlocked Android Smartphone U.S Version, 8GB RAM+128GB Storage, 90Hz Fluid Display,Triple Camera, with Alexa Built-in,",
+			"Name": "OnePlus 8 Glacial Green",
+			"DateOfSale": "2017-03-26",
+			"ProductPicUrl": "https://m.media-amazon.com/images/I/51uEwkqjZTL._AC_SL1040_.jpg",
+			"Status": "Available",
+			"Quantity": 50,
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"Price": 297,
+			"Width": 30,
+			"Depth": 18,
+			"Height": 3,
+			"DimUnit": "cm"
+		}
+	],
+	"ProductCollectionStats": {
+		"Counts": {
+			"Total": 123,
+			"Weight": {
+				"Ok": 53,
+				"Heavy": 51,
+				"Overweight": 19
+			}
+		},
+		"Groups": {
+			"Category": {
+				"Accessories" : 34,
+				"Desktop Computers" : 7,
+				"Flat Screens" : 2,
+				"Keyboards" : 4,
+				"Laptops" : 11,
+				"Printers" : 9,
+				"Smartphones and Tablets" : 9,
+				"Mice" : 7,
+				"Computer System Accessories" : 8,
+				"Graphics Card" : 4,
+				"Scanners" : 4,
+				"Speakers" : 3,
+				"Software" : 8,
+				"Telekommunikation" : 3,
+				"Servers" : 3,
+				"Flat Screen TVs" : 3
+			},
+			"SupplierName": {
+				"Titanium": 21,
+				"Technocom": 22,
+				"Red Point Stores": 7,
+				"Very Best Screens": 14,
+				"Smartcards": 2,
+				"Alpha Printers": 5,
+				"Printer for All": 8,
+				"Oxynum": 8,
+				"Fasttech": 15,
+				"Ultrasonic United": 15,
+				"Speaker Experts": 3,
+				"Brainsoft": 3
+			}
+		},
+		"Filters": [
+			{
+				"type": "Category",
+				"values": [
+					{
+						"text": "Accessories",
+						"data": 34
+					},
+					{
+						"text": "Desktop Computers",
+						"data": 7
+					},
+					{
+						"text": "Flat Screens",
+						"data": 2
+					},
+					{
+						"text": "Keyboards",
+						"data": 4
+					},
+					{
+						"text": "Laptops",
+						"data": 11
+					},
+					{
+						"text": "Printers",
+						"data": 9
+					},
+					{
+						"text": "Smartphones and Tablets",
+						"data": 9
+					},
+					{
+						"text": "Mice",
+						"data": 7
+					},
+					{
+						"text": "Computer System Accessories",
+						"data": 8
+					},
+					{
+						"text": "Graphics Card",
+						"data": 4
+					},
+					{
+						"text": "Scanners",
+						"data": 4
+					},
+					{
+						"text": "Speakers",
+						"data": 3
+					},
+					{
+						"text": "Software",
+						"data": 8
+					},
+					{
+						"text": "Telekommunikation",
+						"data": 3
+					},
+					{
+						"text": "Servers",
+						"data": 3
+					},
+					{
+					  "text": "Flat Screen TVs",
+					  "data": 3
+					}
+				]
+			},
+			{
+				"type": "SupplierName",
+				"values": [
+					{
+					"text": "Titanium",
+					"data": 21
+				  },
+				  {
+					"text": "Technocom",
+					"data": 22
+				  },
+				  {
+					"text": "Red Point Stores",
+					"data": 7
+				  },
+				  {
+					"text": "Very Best Screens",
+					"data": 14
+				  },
+				  {
+					"text": "Smartcards",
+					"data": 2
+				  },
+				  {
+					"text": "Alpha Printers",
+					"data": 5
+				  },
+				  {
+					"text": "Printer for All",
+					"data": 8
+				  },
+				  {
+					"text": "Oxynum",
+					"data": 8
+				  },
+				  {
+					"text": "Fasttech",
+					"data": 15
+				  },
+				  {
+					"text": "Ultrasonic United",
+					"data": 15
+				  },
+				  {
+					"text": "Speaker Experts",
+					"data": 3
+				  },
+				  {
+					"text": "Brainsoft",
+					"data": 3
+				  }
+				]
+			}
+		]
+	}
+}
